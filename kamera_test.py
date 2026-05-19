@@ -1,5 +1,5 @@
 """
-PSEUDO CODE :
+PSEUDO CODE     :
 BAŞLA
     Kamerayı ve MediaPipe el modelini başlat
     Boş bir çizim tuvali (canvas) oluştur
